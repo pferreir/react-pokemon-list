@@ -4,7 +4,6 @@
   "description": "Small react tutorial",
   "main": "src/index.js",
   "scripts": {
-    "setup": "cd indico && fab setup_deps:system_node=true",
     "start": "webpack-dev-server --watch"
   },
   "author": "Pedro Ferreira <pedro.ferreira@cern.ch>",
